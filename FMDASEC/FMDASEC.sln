@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28721.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMDASEC", "FMDASEC\FMDASEC.csproj", "{BE3135BE-1990-4FD3-94D9-E9FD44063A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recommendation_Test", "Recommendation_Test\Recommendation_Test.csproj", "{7BAAD7D3-E91D-4AD7-9BBA-3FB721C4DB46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3135BE-1990-4FD3-94D9-E9FD44063A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3135BE-1990-4FD3-94D9-E9FD44063A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3135BE-1990-4FD3-94D9-E9FD44063A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3135BE-1990-4FD3-94D9-E9FD44063A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BAAD7D3-E91D-4AD7-9BBA-3FB721C4DB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAAD7D3-E91D-4AD7-9BBA-3FB721C4DB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAAD7D3-E91D-4AD7-9BBA-3FB721C4DB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAAD7D3-E91D-4AD7-9BBA-3FB721C4DB46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {676E832B-2916-4447-91DE-F7DD0657E465}
+	EndGlobalSection
+EndGlobal

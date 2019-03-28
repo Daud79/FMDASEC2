@@ -1,0 +1,16 @@
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\bin\Debug\Recommendation_Test.dll
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\bin\Debug\Recommendation_Test.pdb
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\bin\Debug\FMDASEC.dll
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\bin\Debug\FMDASEC.pdb
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\obj\Debug\Recommendation_Test.csprojAssemblyReference.cache
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\obj\Debug\Recommendation_Test.csproj.CoreCompileInputs.cache
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\obj\Debug\Recommendation_Test.csproj.CopyComplete
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\obj\Debug\Recommendation_Test.dll
+C:\Users\dabbas\source\repos\FMDASEC\Recommendation_Test\obj\Debug\Recommendation_Test.pdb

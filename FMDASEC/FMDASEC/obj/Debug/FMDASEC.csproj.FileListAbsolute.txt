@@ -1,0 +1,6 @@
+C:\Users\dabbas\source\repos\FMDASEC\FMDASEC\bin\Debug\FMDASEC.dll
+C:\Users\dabbas\source\repos\FMDASEC\FMDASEC\bin\Debug\FMDASEC.pdb
+C:\Users\dabbas\source\repos\FMDASEC\FMDASEC\obj\Debug\FMDASEC.csproj.CoreCompileInputs.cache
+C:\Users\dabbas\source\repos\FMDASEC\FMDASEC\obj\Debug\FMDASEC.dll
+C:\Users\dabbas\source\repos\FMDASEC\FMDASEC\obj\Debug\FMDASEC.pdb
+C:\Users\dabbas\source\repos\FMDASEC\FMDASEC\obj\Debug\FMDASEC.csprojAssemblyReference.cache
